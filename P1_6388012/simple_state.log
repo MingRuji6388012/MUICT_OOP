@@ -1,0 +1,1481 @@
+======================= T:0=======================
+[Waiting-to-Enter Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:1=======================
+[Waiting-to-Enter Queue]: D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:2=======================
+[Waiting-to-Enter Queue]: D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1
+[Food Stall: PigPan Deli]: D2
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:3=======================
+[Waiting-to-Enter Queue]: D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1
+[Food Stall: PigPan Deli]: D2
+[Food Stall: BlueMART Vending Machine]: D3
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:4=======================
+[Waiting-to-Enter Queue]: D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4
+[Food Stall: PigPan Deli]: D2
+[Food Stall: BlueMART Vending Machine]: D3
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:5=======================
+[Waiting-to-Enter Queue]: D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4
+[Food Stall: PigPan Deli]: D2-D5
+[Food Stall: BlueMART Vending Machine]: D3
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:6=======================
+[Waiting-to-Enter Queue]: D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4
+[Food Stall: PigPan Deli]: D2-D5
+[Food Stall: BlueMART Vending Machine]: D3-D6
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:7=======================
+[Waiting-to-Enter Queue]: D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4-D7
+[Food Stall: PigPan Deli]: D2-D5
+[Food Stall: BlueMART Vending Machine]: D3-D6
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:8=======================
+[Waiting-to-Enter Queue]: D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4-D7
+[Food Stall: PigPan Deli]: D2-D5-D8
+[Food Stall: BlueMART Vending Machine]: D3-D6
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:9=======================
+[Waiting-to-Enter Queue]: D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4-D7
+[Food Stall: PigPan Deli]: D2-D5-D8
+[Food Stall: BlueMART Vending Machine]: D3-D6-D9
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:10=======================
+[Waiting-to-Enter Queue]: D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4-D7-D10
+[Food Stall: PigPan Deli]: D2-D5-D8
+[Food Stall: BlueMART Vending Machine]: D3-D6-D9
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:11=======================
+[Waiting-to-Enter Queue]: D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4-D7-D10
+[Food Stall: PigPan Deli]: D2-D5-D8-D11
+[Food Stall: BlueMART Vending Machine]: D3-D6-D9
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:12=======================
+[Waiting-to-Enter Queue]: D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D1-D4-D7-D10
+[Food Stall: PigPan Deli]: D2-D5-D8-D11
+[Food Stall: BlueMART Vending Machine]: D3-D6-D9-D12
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:13=======================
+[Waiting-to-Enter Queue]: D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13
+[Food Stall: PigPan Deli]: D2-D5-D8-D11
+[Food Stall: BlueMART Vending Machine]: D3-D6-D9-D12
+[Waiting-to-Seat Queue]: D1
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:14=======================
+[Waiting-to-Enter Queue]: D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13
+[Food Stall: PigPan Deli]: D5-D8-D11-D14
+[Food Stall: BlueMART Vending Machine]: D3-D6-D9-D12
+[Waiting-to-Seat Queue]: D2
+[Table 1]: D1
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:15=======================
+[Waiting-to-Enter Queue]: D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13
+[Food Stall: PigPan Deli]: D5-D8-D11-D14
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15
+[Waiting-to-Seat Queue]: D3
+[Table 1]: D1-D2
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:16=======================
+[Waiting-to-Enter Queue]: D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:17=======================
+[Waiting-to-Enter Queue]: D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:18=======================
+[Waiting-to-Enter Queue]: D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:19=======================
+[Waiting-to-Enter Queue]: D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:20=======================
+[Waiting-to-Enter Queue]: D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:21=======================
+[Waiting-to-Enter Queue]: D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:22=======================
+[Waiting-to-Enter Queue]: D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:23=======================
+[Waiting-to-Enter Queue]: D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D4-D7-D10-D13-D16
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:24=======================
+[Waiting-to-Enter Queue]: D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D5-D8-D11-D14-D17
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: D4
+[Table 1]: D1-D2-D3
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:25=======================
+[Waiting-to-Enter Queue]: D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D6-D9-D12-D15-D18
+[Waiting-to-Seat Queue]: D5
+[Table 1]: D1-D2-D3-D4
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:26=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: D6
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5
+[Done Queue]: 
+
+======================= T:27=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:28=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:29=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:30=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:31=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:32=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:33=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:34=======================
+[Waiting-to-Enter Queue]: D22-D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D7-D10-D13-D16-D19
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: 
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:35=======================
+[Waiting-to-Enter Queue]: D23-D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D8-D11-D14-D17-D20
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: D7
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6
+[Done Queue]: 
+
+======================= T:36=======================
+[Waiting-to-Enter Queue]: D24-D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D9-D12-D15-D18-D21
+[Waiting-to-Seat Queue]: D8
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6-D7
+[Done Queue]: 
+
+======================= T:37=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D9
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: 
+
+======================= T:38=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D9
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: 
+
+======================= T:39=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D9
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: 
+
+======================= T:40=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D9
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: 
+
+======================= T:41=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D9
+[Table 1]: D1-D2-D3-D4
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: 
+
+======================= T:42=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: 
+[Table 1]: D2-D3-D4-D9
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1
+
+======================= T:43=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: 
+[Table 1]: D3-D4-D9
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2
+
+======================= T:44=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: 
+[Table 1]: D4-D9
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:45=======================
+[Waiting-to-Enter Queue]: D25-D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D10-D13-D16-D19-D22
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: 
+[Table 1]: D4-D9
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:46=======================
+[Waiting-to-Enter Queue]: D26-D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D11-D14-D17-D20-D23
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D10
+[Table 1]: D4-D9
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:47=======================
+[Waiting-to-Enter Queue]: D27-D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D12-D15-D18-D21-D24
+[Waiting-to-Seat Queue]: D11
+[Table 1]: D4-D9-D10
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:48=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D12
+[Table 1]: D4-D9-D10-D11
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:49=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D12
+[Table 1]: D4-D9-D10-D11
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:50=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D12
+[Table 1]: D4-D9-D10-D11
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:51=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D12
+[Table 1]: D4-D9-D10-D11
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:52=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D12
+[Table 1]: D4-D9-D10-D11
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3
+
+======================= T:53=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D5-D6-D7-D8
+[Done Queue]: D1-D2-D3-D4
+
+======================= T:54=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D6-D7-D8
+[Done Queue]: D1-D2-D3-D4-D5
+
+======================= T:55=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:56=======================
+[Waiting-to-Enter Queue]: D28-D29-D30
+[Food Stall: Bamboo Shop]: D13-D16-D19-D22-D25
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:57=======================
+[Waiting-to-Enter Queue]: D29-D30
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D14-D17-D20-D23-D26
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D13
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:58=======================
+[Waiting-to-Enter Queue]: D30
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D15-D18-D21-D24-D27
+[Waiting-to-Seat Queue]: D14
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8-D13
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:59=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D15
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8-D13-D14
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:60=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D15
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8-D13-D14
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:61=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D15
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8-D13-D14
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:62=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D15
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8-D13-D14
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:63=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D15
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D7-D8-D13-D14
+[Done Queue]: D1-D2-D3-D4-D5-D6
+
+======================= T:64=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D8-D13-D14-D15
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7
+
+======================= T:65=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D13-D14-D15
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8
+
+======================= T:66=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D13-D14-D15
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8
+
+======================= T:67=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D16-D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D13-D14-D15
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8
+
+======================= T:68=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D17-D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D16
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D13-D14-D15
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8
+
+======================= T:69=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D18-D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D17
+[Table 1]: D9-D10-D11-D12
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8
+
+======================= T:70=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D18
+[Table 1]: D10-D11-D12-D17
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9
+
+======================= T:71=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D18
+[Table 1]: D10-D11-D12-D17
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9
+
+======================= T:72=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D18
+[Table 1]: D10-D11-D12-D17
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9
+
+======================= T:73=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D18
+[Table 1]: D10-D11-D12-D17
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9
+
+======================= T:74=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D18
+[Table 1]: D10-D11-D12-D17
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9
+
+======================= T:75=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D11-D12-D17-D18
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10
+
+======================= T:76=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D12-D17-D18
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11
+
+======================= T:77=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D12-D17-D18
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11
+
+======================= T:78=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D19-D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D12-D17-D18
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11
+
+======================= T:79=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D20-D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D19
+[Table 1]: D12-D17-D18
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11
+
+======================= T:80=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D21-D24-D27-D30
+[Waiting-to-Seat Queue]: D20
+[Table 1]: D12-D17-D18-D19
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11
+
+======================= T:81=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D21
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12
+
+======================= T:82=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D21
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12
+
+======================= T:83=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D21
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12
+
+======================= T:84=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D21
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12
+
+======================= T:85=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D21
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D13-D14-D15-D16
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12
+
+======================= T:86=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D14-D15-D16-D21
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13
+
+======================= T:87=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D15-D16-D21
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14
+
+======================= T:88=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D15-D16-D21
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14
+
+======================= T:89=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D22-D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D15-D16-D21
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14
+
+======================= T:90=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D23-D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D22
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D15-D16-D21
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14
+
+======================= T:91=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D24-D27-D30
+[Waiting-to-Seat Queue]: D23
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D15-D16-D21-D22
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14
+
+======================= T:92=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D24
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D16-D21-D22-D23
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15
+
+======================= T:93=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D24
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D16-D21-D22-D23
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15
+
+======================= T:94=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D24
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D16-D21-D22-D23
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15
+
+======================= T:95=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D24
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D16-D21-D22-D23
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15
+
+======================= T:96=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D24
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D16-D21-D22-D23
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15
+
+======================= T:97=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D17-D18-D19-D20
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16
+
+======================= T:98=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D18-D19-D20
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17
+
+======================= T:99=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D18-D19-D20
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17
+
+======================= T:100=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D25-D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D18-D19-D20
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17
+
+======================= T:101=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D26-D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D25
+[Table 1]: D18-D19-D20
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17
+
+======================= T:102=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D27-D30
+[Waiting-to-Seat Queue]: D26
+[Table 1]: D18-D19-D20-D25
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17
+
+======================= T:103=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D27
+[Table 1]: D19-D20-D25-D26
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18
+
+======================= T:104=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D27
+[Table 1]: D19-D20-D25-D26
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18
+
+======================= T:105=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D27
+[Table 1]: D19-D20-D25-D26
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18
+
+======================= T:106=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D27
+[Table 1]: D19-D20-D25-D26
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18
+
+======================= T:107=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D27
+[Table 1]: D19-D20-D25-D26
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18
+
+======================= T:108=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D20-D25-D26-D27
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19
+
+======================= T:109=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20
+
+======================= T:110=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20
+
+======================= T:111=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D28
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20
+
+======================= T:112=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: D29
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D28
+[Table 1]: D25-D26-D27
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20
+
+======================= T:113=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: D30
+[Waiting-to-Seat Queue]: D29
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D21-D22-D23-D24
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20
+
+======================= T:114=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: D30
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D22-D23-D24-D29
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21
+
+======================= T:115=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: D30
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D22-D23-D24-D29
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21
+
+======================= T:116=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: D30
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D22-D23-D24-D29
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21
+
+======================= T:117=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: D30
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D22-D23-D24-D29
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21
+
+======================= T:118=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: D30
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D22-D23-D24-D29
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21
+
+======================= T:119=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D23-D24-D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22
+
+======================= T:120=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D24-D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23
+
+======================= T:121=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D24-D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23
+
+======================= T:122=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D24-D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23
+
+======================= T:123=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D24-D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23
+
+======================= T:124=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D24-D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23
+
+======================= T:125=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24
+
+======================= T:126=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24
+
+======================= T:127=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24
+
+======================= T:128=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24
+
+======================= T:129=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D25-D26-D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24
+
+======================= T:130=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D26-D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25
+
+======================= T:131=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26
+
+======================= T:132=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26
+
+======================= T:133=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26
+
+======================= T:134=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26
+
+======================= T:135=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D27-D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26
+
+======================= T:136=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27
+
+======================= T:137=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27
+
+======================= T:138=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27
+
+======================= T:139=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27
+
+======================= T:140=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: D28
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27
+
+======================= T:141=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: D29-D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28
+
+======================= T:142=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29
+
+======================= T:143=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29
+
+======================= T:144=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29
+
+======================= T:145=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29
+
+======================= T:146=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: D30
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29
+
+======================= T:147=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Food Stall: PigPan Deli]: 
+[Food Stall: BlueMART Vending Machine]: 
+[Waiting-to-Seat Queue]: 
+[Table 1]: 
+[Table 2]: 
+[Done Queue]: D1-D2-D3-D4-D5-D6-D7-D8-D9-D10-D11-D12-D13-D14-D15-D16-D17-D18-D19-D20-D21-D22-D23-D24-D25-D26-D27-D28-D29-D30
+
+@@ Simulation Done. Great Job!!

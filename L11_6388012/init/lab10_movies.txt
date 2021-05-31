@@ -1,0 +1,55 @@
+139385,The Revenant,Adventure|Drama
+139415,Irrational Man,Drama
+139620,Everything's Gonna Be Great,Adventure|Children|Comedy|Drama
+139642,Southpaw,Action|Drama
+27801,Ong-Bak: The Thai Warrior (Ong Bak),Action|Thriller
+139644,Sicario,Crime|Drama|Mystery
+139747,Before We Go,Romance
+139920,Women of the Prehistoric Planet,Action|Adventure|Sci-Fi
+140098,Runoff,Drama
+140110,The Intern,Comedy
+140247,The Gift,Drama|Horror
+140265,George Carlin: Jammin' in New York,Comedy
+140711,American Ultra,Action|Comedy
+140715,Straight Outta Compton,Drama
+140725,Cop Car,Thriller
+140737,The Lost Room,Action|Fantasy|Mystery
+140777,Pasolini,Drama
+140816, ,Comedy|Drama
+Air,Sci-Fi|Thriller
+141305,Round Trip to Heaven,(no genres listed)
+141432,Sweet Red Bean Paste,Drama
+141472,The 50 Year Argument,(no genres listed)
+141688,Legend,Crime|Thriller
+142074,Knock Knock,Horror|Thriller
+142448,Everest,Adventure|Drama|Thriller
+142488,Spotlight,Thriller
+
+
+
+
+142507,Pawn Sacrifice,Drama
+142536,Burnt,Drama
+142550,Ryuzo and the Seven Henchmen,Action|Comedy
+142562,The Ceremony,Documentary
+142566,Sarusuberi: Miss Hokusai,Animation
+142973,Ice and the Sky,Documentary
+39398,C.S.A.: The Confederate States of America,Comedy|Drama
+143031,Jump In!,Comedy|Drama|Romance
+143257,Ashby,Comedy|Drama
+143385,Bridge of Spies,Drama|Thriller
+143709,The Take,(no genres listed)
+143882,Operator,Action|Drama|Thriller
+144482,Circle,Drama|Horror|Sci-Fi
+144656,The Measure of a Man,Drama
+144976,Bone Tomahawk,Horror|Western
+146344,El?m?lt? kaiken sain,Comedy|Drama
+146656,Creed,Drama
+146684,Cosmic Scrat-tastrophe,Animation|Children|Comedy
+146878,Le Grand Restaurant,Comedy
+148238,A Very Murray Christmas,Comedy
+148626,The Big Short,Drama
+149532,Marco Polo: One Hundred Eyes,(no genres listed)
+86290,American: The Bill Hicks Story,Comedy|Documentary
+114662,American Sniper,Action|War
+
